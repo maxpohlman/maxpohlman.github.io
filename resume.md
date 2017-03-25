@@ -1,14 +1,14 @@
 ---
 layout: page
 ---
-Johnny Coder
+Max Pohlman
 ============
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+>  [maxpohlman.com](maxpohlman.com) maxpohlman@gmail.com 617-755-4947
+>  
+>  
 
 ----
 
