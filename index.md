@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Website of Max Pohlman
+title: Max Pohlman
 
 ---
 
