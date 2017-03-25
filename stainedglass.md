@@ -5,4 +5,4 @@ title: Stained Glass
 
 **I've been an amateur stained glass hobbyist for a few years. Below are some of the pieces I'm most proud of.**
 
-!(https://github.com/maxpohlman/maxpohlman.github.io/tree/master/stainedglass/beach.jpg)
+![alt text](https://github.com/maxpohlman/maxpohlman.github.io/blob/master/stainedglass/beach.JPG "Chairs on a Beach")
