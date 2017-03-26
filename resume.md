@@ -42,13 +42,13 @@ and compensation based on community policy and specifications of company planned
 **Environmental Policy Intern**
 *Save the Harbor/Save the Bay  (May-Aug 2015)*
 
-Conducted research independently to create press releases and reports for policy makers about the water 	
+Conducted research independently to create press releases and reports for policy makers about the water
 quality of Boston Harbor and the Boston beaches.
 
 **Research Assistant**
 *Penn State University  (Sep 2013 - May 2015)*
 
-Performed multivariate analysis regarding economic factors and implications of the increase   	
+Performed multivariate analysis regarding economic factors and implications of the increase
 of Marcellus Shale fracking. 
  
 Other Skills
