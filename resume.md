@@ -17,10 +17,9 @@ Education
 ---------
 
 2015-2017 (expected)
-:   **MS, Environmental and Natural Resource Economics**; University of Rhode Island (Kingsto)
+:   **MS, Environmental and Natural Resource Economics**; University of Rhode Island 
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    *Thesis title: Effects of Uncertainty and Ambiguity in a Bargaining Setting*
 
 2007-2010
 :   **BSc, Computer Science and Electrical Engineering**; University of
