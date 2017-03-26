@@ -63,7 +63,7 @@ analysis, and visualization via ggplot.
 
 * Knowledge of git and project management through github
 
-* Basic knowledge of STATA, Python, MySQL, Access, MatLab, QGIS
+* Basic knowledge of STATA, Python, MySQL, Bash, Access, MatLab, QGIS
 
 * Construction of [stained glass artwork](http://www.maxpohlman.com/stainedglass) 
 
