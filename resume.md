@@ -41,7 +41,7 @@ and ambiguity on bargaining behavior. Funded under a NSF EPSCoR grant on [The Fu
 Built an economic impacts tool that predicted changes in community employment
 and compensation based on community policy and specifications of company planned wind farms.
 
-**Environmental Policy Intern **
+**Environmental Policy Intern**
 *Save the Harbor/Save the Bay  (May-Aug 2015)*
 
 Worked independently to create press releases and reports for policy makers about the water 	
