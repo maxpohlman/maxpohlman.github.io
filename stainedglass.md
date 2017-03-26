@@ -3,7 +3,7 @@ layout: page
 title: Stained Glass
 ---
 <p align="center">
-    I've been an amateur stained glass hobbyist for a few years. Below are some of the pieces I'm most proud of.
+    <b>I've been an amateur stained glass hobbyist for a few years. Below are some of the pieces I'm most proud of.</b>
 </p>
 
 
