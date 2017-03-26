@@ -9,7 +9,7 @@ Max Pohlman
 >  Graduate student with a unique combination of economic, environmental, and 
 >  				statistical knowledge and interest.
 <p align="center">
-    <a href="maxpohlman.com">maxpohlman.com</a>  |   maxpohlman@gmail.com  |  617-755-4947
+    <a href="maxpohlman.com">maxpohlman.com</a>  •   maxpohlman@gmail.com  •  617-755-4947
 </p>
 ----
 
@@ -68,5 +68,5 @@ analysis, and visualization via ggplot.
 
 
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <maxpohlman@gmail.com> • 23 years old \
+> 2 Saint Paul Street #301 Brookline, MA 02446
