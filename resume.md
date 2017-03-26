@@ -35,14 +35,11 @@ Experience
 Conducted economic experiments and performed analysis of the effects of uncertainty
 and ambiguity on bargaining behavior. Funded under a NSF EPSCoR grant on [The Future of Dams](http://www.newenglandsustainabilityconsortium.org/dams)
 
-* First item
+**Sustainability Intern**
+*Enel Green Power (Jun-Aug 2016)*
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
-
-**That Other Job You Had**
-
-Also with a short description.
+Built an economic impacts tool that predicted changes in community employment
+and compensation based on community policy and specifications of company planned wind farms.
 
 Technical Experience
 --------------------
