@@ -20,7 +20,7 @@ I am a very data-driven person and I hope to continue to use and develop a very 
 
 ----
 
-**My current research and thesis is on the effects of uncertainty and ambiguity
+**My current research and thesis are on the effects of uncertainty and ambiguity
 on bargaining behavior in the context of dam removal. I am funded under a [NSF grant](https://nsf.gov/awardsearch/showAward?AWD_ID=1539071)
 regarding dam decision making.**
 
