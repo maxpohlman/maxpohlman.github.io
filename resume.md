@@ -65,7 +65,7 @@ analysis, and visualization via ggplot.
 
 * Basic knowledge of STATA, Python, MySQL, Access, MatLab, QGIS
 
-* Construction of [stained glass artwork](maxpohlman.com/stainedglass) 
+* Construction of [stained glass artwork](http://www.maxpohlman.com/stainedglass) 
 
 
 
