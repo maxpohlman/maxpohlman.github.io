@@ -53,16 +53,19 @@ quality of Boston Harbor and the Boston beaches.
 Performed multivariate analysis regarding economic factors and implications of the increase   	
 of Marcellus Shale fracking. 
  
-Technical Experience
+Other Skills
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+**Technical**
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+*5 years experience coding in R. Well versed in data cleaning, manipulation,
+analysis, and visualization via ggplot.
+
+*Advanced usage of Microsoft Excel for things like pivot tables, solver, and macros
+
+*Knowledge of git and project management through github
+
+*Basic knowledge of STATA, Python, MySQL, Access, MatLab, QGIS
 
 Open Source
 :   List open source contributions here, perhaps placing emphasis on
