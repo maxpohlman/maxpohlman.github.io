@@ -23,7 +23,7 @@ Education
 
 **BS, Economics**; Pennsylvania State University (University Park) (2011-2015)
 
-    *Minor: Environmental and Renewable Resource Economics*
+*Minor: Environmental and Renewable Resource Economics*
 
 Experience
 ----------
