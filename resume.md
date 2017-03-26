@@ -1,7 +1,5 @@
 ---
 layout: page
-css: resumestyle.css
-ext-css: resumestyle.css
 ---
 Max Pohlman
 ============
@@ -18,13 +16,12 @@ Max Pohlman
 Education
 ---------
 
-2015-2017 (expected)
-:   **MS, Environmental and Natural Resource Economics**; University of Rhode Island 
 
-    *Working Thesis title: Effects of Uncertainty and Ambiguity in a Bargaining Setting*
+**MS, Environmental and Natural Resource Economics**; University of Rhode Island (2015-2017 expected)
 
-2011-2015
-:   **BS, Economics**; Pennsylvania State University (University Park)
+*Working Thesis title: Effects of Uncertainty and Ambiguity in a Bargaining Setting*
+
+**BS, Economics**; Pennsylvania State University (University Park) (2011-2015)
 
     *Minor: Environmental and Renewable Resource Economics*
 
