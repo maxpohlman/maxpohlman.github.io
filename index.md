@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Max Pohlman
+bigimg: https://github.com/maxpohlman/maxpohlman.github.io/blob/master/img/stainedglass/beach.JPG?raw=true
 
 ---
 
