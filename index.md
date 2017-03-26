@@ -14,6 +14,8 @@ I am a very data-driven person and I hope to continue to use and develop a very 
 
 * Market based solutions to sub-optimal climate-change response behavior
 
+* Applying economic theory to solve environmental issues
+
 * Cost efficient ways to mitigate environmental hazard damage 
 
 * Economic impacts of implimentation of green energy infrastructure, particularly offshore wind.
