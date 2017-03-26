@@ -19,13 +19,12 @@ Education
 2015-2017 (expected)
 :   **MS, Environmental and Natural Resource Economics**; University of Rhode Island 
 
-    *Thesis title: Effects of Uncertainty and Ambiguity in a Bargaining Setting*
+    *Working Thesis title: Effects of Uncertainty and Ambiguity in a Bargaining Setting*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+2011-2015
+:   **BS, Economics**; Pennsylvania State University (University Park)
 
-    *Minor: Awesomeology*
+    *Minor: Environmental and Renewable Resource Economics*
 
 Experience
 ----------
