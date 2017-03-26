@@ -1,6 +1,7 @@
 ---
 layout: page
 css: resumestyle.css
+ext-css: resumestyle.css
 ---
 Max Pohlman
 ============
