@@ -58,14 +58,14 @@ Other Skills
 
 **Technical**
 
-*5 years experience coding in R. Well versed in data cleaning, manipulation,
+* 5 years experience coding in R. Well versed in data cleaning, manipulation,
 analysis, and visualization via ggplot.
 
-*Advanced usage of Microsoft Excel for things like pivot tables, solver, and macros
+* Advanced usage of Microsoft Excel for things such as pivot tables, solver, and macros
 
-*Knowledge of git and project management through github
+* Knowledge of git and project management through github
 
-*Basic knowledge of STATA, Python, MySQL, Access, MatLab, QGIS
+* Basic knowledge of STATA, Python, MySQL, Access, MatLab, QGIS
 
 Open Source
 :   List open source contributions here, perhaps placing emphasis on
