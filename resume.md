@@ -31,9 +31,9 @@ Experience
 
 **Research Assistant**
 *University of Rhode Island (Jan. 2016 - Present)*
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+
+Conducted economic experiments and performed analysis of the effects of uncertainty
+and ambiguity on bargaining behavior. Funded under a NSF EPSCoR grant on [The Future of Dams](http://www.newenglandsustainabilityconsortium.org/dams)
 
 * First item
 
