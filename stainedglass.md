@@ -2,8 +2,10 @@
 layout: page
 title: Stained Glass
 ---
+<p align="center">
+    I've been an amateur stained glass hobbyist for a few years. Below are some of the pieces I'm most proud of.
+</p>
 
-**I've been an amateur stained glass hobbyist for a few years. Below are some of the pieces I'm most proud of.**
 
 ![1](https://github.com/maxpohlman/maxpohlman.github.io/blob/master/img/stainedglass/beach.JPG?raw=true)
 
