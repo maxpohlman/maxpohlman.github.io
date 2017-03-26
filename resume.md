@@ -66,8 +66,8 @@ analysis, and visualization via ggplot.
 
 * Construction of [stained glass artwork](http://www.maxpohlman.com/stainedglass) 
 
-
+---
 <p align="center">
-       <a href="mailto:maxpohlman@gmail.com">maxpohlman@gmail.com</a>  • 23 years old \
+       <a href="mailto:maxpohlman@gmail.com">maxpohlman@gmail.com</a>  • 23 years old <br>
 		2 Saint Paul Street #301 Brookline, MA 02446
 </p>
