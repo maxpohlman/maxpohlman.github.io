@@ -70,6 +70,6 @@ analysis, and visualization via ggplot.
 ><p align="center">
        <a href="mailto:maxpohlman@gmail.com">maxpohlman@gmail.com</a>  • 23 years old <br>
 		2 Saint Paul Street #301 Brookline, MA 02446 <br>
-		Download my resume as a <a href="https://github.com/maxpohlman/maxpohlman.github.io/raw/master/resume.docx">docx file.</a></p>
+		Download my resume as a <a href="https://github.com/maxpohlman/maxpohlman.github.io/raw/master/resume.docx" download="MaxPohlman_Resume>docx file.</a></p>
 
 
