@@ -16,8 +16,8 @@ Max Pohlman
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2015-2017 (expected)
+:   **MS, Environmental and Natural Resource Economics**; University of Rhode Island (Kingsto)
 
     *Thesis title: Deep Learning Approaches to the Self-Awesomeness
      Estimation Problem*
