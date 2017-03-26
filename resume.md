@@ -33,7 +33,7 @@ Experience
 *University of Rhode Island (Jan. 2016 - Present)*
 
 Conducted economic experiments and performed analysis of the effects of uncertainty
-and ambiguity on bargaining behavior. Funded under a NSF EPSCoR grant on [The Future of Dams](http://www.newenglandsustainabilityconsortium.org/dams)
+and ambiguity on bargaining behavior. Funded under a NSF EPSCoR grant on [The Future of Dams](https://nsf.gov/awardsearch/showAward?AWD_ID=1539071)
 
 **Sustainability Intern**
 *Enel Green Power (Jun-Aug 2016)*
