@@ -54,7 +54,7 @@ of Marcellus Shale fracking.
 Other Skills
 --------------------
 
-* 5 years experience coding in R. Well versed in data cleaning, manipulation,
+* 4 years experience coding in R. Well versed in data cleaning, manipulation,
 analysis, and visualization via ggplot.
 
 * Advanced usage of Microsoft Excel for things such as pivot tables, solver, and macros
