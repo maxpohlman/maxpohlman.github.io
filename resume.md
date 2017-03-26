@@ -29,8 +29,8 @@ Education
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
-
+**Research Assistant**
+*University of Rhode Island (Jan. 2016 - Present)
 Short text containing the type of work done, results obtained,
 lessons learned and other remarks. Can also include lists and
 links:
