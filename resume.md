@@ -68,5 +68,6 @@ analysis, and visualization via ggplot.
 
 
 
-> <maxpohlman@gmail.com> • 23 years old \
+> <maxpohlman@gmail.com> • 23 years old 
+
 > 2 Saint Paul Street #301 Brookline, MA 02446
