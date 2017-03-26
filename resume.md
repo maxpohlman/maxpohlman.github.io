@@ -6,9 +6,9 @@ Max Pohlman
 
 ----
 
->  [maxpohlman.com](maxpohlman.com) maxpohlman@gmail.com 617-755-4947
->  
->  
+>  Graduate student with a unique combination of economic, environmental, and 
+>  				statistical knowledge and interest.
+>  [maxpohlman.com](maxpohlman.com)  |   maxpohlman@gmail.com  |  617-755-4947
 
 ----
 
