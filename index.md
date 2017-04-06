@@ -6,9 +6,9 @@ bigimg: https://github.com/maxpohlman/maxpohlman.github.io/blob/master/img/stain
 
 ---
 
-**I am a soon to be graduate of the University of Rhode Island's Environmental and Natural Resource Economic's Master's Program.
+**I am a Masters candidate of the University of Rhode Island's Environmental and Natural Resource Economics Program.
 I am a very data-driven person and I hope to continue to use and develop a very analytically heavy skillset as I begin my career.
- My primary research interests are**
+ My primary research interests are:**
 
 * Economic impacts of climate change on coastal communities
 
