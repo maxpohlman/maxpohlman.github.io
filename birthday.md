@@ -11,4 +11,4 @@ title: Max and Anna's Birthday
 
 #### Parking: You must park in the Galilee parking lot and make the 3 minute walk to the house (if you have something to drop off it's fine to drive up to unload but the final resting spot must be the lot)
 
-<img src="https://github.com/maxpohlman/maxpohlman.github.io/blob/master/img/parking.png?raw=true" width="1050" height="646" />
+<img src="https://github.com/maxpohlman/maxpohlman.github.io/blob/master/img/parking.png?raw=true" width="788" height="485" />
