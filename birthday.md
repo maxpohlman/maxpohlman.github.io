@@ -36,15 +36,20 @@ pool to choose from. Your fellow guests will also likely praise you for your dis
 **DO NOT BRING BUDWEISER, GANSETT, MILLER, ANYTHING 'LIGHT', OR ANYTHING ELSE THAT'S SHIT QUALITY. MAX WILL LITERALLY POUR IT OUT ONTO THE LAWN IN FRONT OF YOU AND SEND YOU TO WAKEFIELD
 LIQUORS TO FIX YOUR MISTAKES**
 
-If you are not a fan of beer, we will have on hand a couple of funky spirits, but the selection will be much more limited. We highly recommend talking with Max or Azure for recommendations
+If you are not a fan of beer, we will have on hand a couple of funky spirits, but the selection will be much more limited. We highly recommend talking with Max or Azure for beer recommendations
 as we will have a lot of beers on hand that will make you go 'I can't believe that's a beer'. However, you are still more than welcome to bring your own spirits with you. We will have
 Coke on hand for mixing.
 
 **SMOKING OF ANY VARIETY IS STRICTLY FORBIDDEN** (both inside and outside)
 
+If you have any fun outdoor games (bocci, can-jam, ect), feel free to bring them along as well (or contact Max beforehand)
 
+If people are feeling extra ambitious, you are more than welcome to bring food along with your beer. A small variety of snacks will be available. In addition, Max's house is ~5min
+away from a "low quality but when you're drunk do you even care" pizza place and it is likely we will be placing multiple orders throughout the afternoon and evening.
 
-#### Parking: You **must** park in the Galilee parking lot and make the 3 minute walk to the house (if you have something to drop off it's fine to drive up to unload but the final resting spot must be the lot)
+Parking: 
+------------------
+You **must** park in the Galilee parking lot and make the 3 minute walk to the house (if you have something to drop off it's fine to drive up to unload but the final resting spot must be the lot)
 
 <img src="https://github.com/maxpohlman/maxpohlman.github.io/blob/master/img/parking.png?raw=true" width="788" height="485" />
 
