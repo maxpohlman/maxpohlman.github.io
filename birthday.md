@@ -3,7 +3,7 @@ layout: minimal
 title: Max and Anna's Birthday
 ---
 
-## Celebration of Max and Anna's Birthday
+## Celebration of Max and Anna's Birthday 🎉
 
 ### When: April 29th from 2 - ?? (Come whenever and stay till whenever)
 
