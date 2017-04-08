@@ -45,7 +45,7 @@ Coke on hand for mixing.
 
 **SMOKING OF ANY VARIETY IS STRICTLY FORBIDDEN** (both inside and outside)
 
-If you have any fun outdoor games (bocci, can-jam, ect), feel free to bring them along as well (or contact Max beforehand)
+If you have any fun outdoor games (corn hole, can-jam, ect), feel free to bring them along as well (or contact Max beforehand)
 
 If people are feeling extra ambitious, you are more than welcome to bring food along with your beer. A small variety of snacks will be available. In addition, Max's house is ~5min
 away from a "low quality but when you're drunk do you even care" pizza place and it is likely we will be placing multiple orders throughout the afternoon and evening.
