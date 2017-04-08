@@ -19,7 +19,10 @@ beforehand, sleeping over is not allowed. It is the responsibility of your DD to
 
 A suggested beer:guest ratio is 3:1 meaning a six pack for each pair of people in your car. **Unique/off the beaten path beers are highly encouraged**. Even if you see something 
 that looks cool/funky but it isn't something you like (perhaps you're an IPA person but see a carrot cake stout), please bring it anyways since all the beer is going into the same
-pool to choose from. Your fellow guests will also likely praise you for your discovery! The following are good places to find good beer, and most of them do mix-a-six (which are also highly encouraged):
+pool to choose from. Your fellow guests will also likely praise you for your discovery! Please no beer hogging either - beer, especially brews with unique tastes, is ment to be enjoyed
+as a group, so please share all the awesome stuff you bring with others, and sample the brews that other people bring!
+
+ The following are good places to find good beer, and most of them do mix-a-six (which are also highly encouraged):
 
 * [Bottles, Providence](http://bottlesfinewine.com/)
 
@@ -52,4 +55,6 @@ Parking:
 You **must** park in the Galilee parking lot and make the 3 minute walk to the house (if you have something to drop off it's fine to drive up to unload but the final resting spot must be the lot)
 
 <img src="https://github.com/maxpohlman/maxpohlman.github.io/blob/master/img/parking.png?raw=true" width="788" height="485" />
+
+### If you have any questions about anything, send Max a text at 617 755 4947 or email [max_pohlman@hotmail.com](mailto:max_pohlman@hotmail.com)
 
