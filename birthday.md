@@ -14,7 +14,7 @@ title: Max and Anna's Birthday
 
 What to bring: 
 ----------------
-Please bring a **designated driver** with your carpool. If you're reading this you've likely been to my house and know that it is not large. Unless you talk with me
+Please bring a **designated driver** with your carpool. If you're reading this you've likely been to Max's house and know that it is not large. Unless you talk with Max
 beforehand, sleeping over is not allowed. It is the responsibility of your DD to get you back home.
 
 A suggested beer:guest ratio is 3:1 meaning a six pack for each pair of people in your car. **Unique/off the beaten path beers are highly encouraged**. Even if you see something 
@@ -33,8 +33,14 @@ pool to choose from. Your fellow guests will also likely praise you for your dis
 
 * [Craft Beer Cellar, Various MA Locations](https://craftbeercellar.com/)
 
-**DO NOT BRING BUDWEISER, GANSETT, MILLER, ANYTHING 'LIGHT', OR ANYTHING ELSE THAT'S SHIT QUALITY. I WILL LITERALLY POUR IT OUT ONTO THE LAWN IN FRONT OF YOU AND SEND YOU TO WAKEFIELD
+**DO NOT BRING BUDWEISER, GANSETT, MILLER, ANYTHING 'LIGHT', OR ANYTHING ELSE THAT'S SHIT QUALITY. MAX WILL LITERALLY POUR IT OUT ONTO THE LAWN IN FRONT OF YOU AND SEND YOU TO WAKEFIELD
 LIQUORS TO FIX YOUR MISTAKES**
+
+If you are not a fan of beer, we will have on hand a couple of funky spirits, but the selection will be much more limited. We highly recommend talking with Max or Azure for recommendations
+as we will have a lot of beers on hand that will make you go 'I can't believe that's a beer'. However, you are still more than welcome to bring your own spirits with you. We will have
+Coke on hand for mixing.
+
+**SMOKING OF ANY VARIETY IS STRICTLY FORBIDDEN** (both inside and outside)
 
 
 
