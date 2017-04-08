@@ -17,9 +17,9 @@ What to bring:
 Please bring a **designated driver** with your carpool. If you're reading this you've likely been to Max's house and know that it is not large. Unless you talk with Max
 beforehand, sleeping over is not allowed. It is the responsibility of your DD to get you back home.
 
-A suggested beer:guest ratio is 3:1 meaning a six pack for each pair of people in your car. **Unique/off the beaten path beers are highly encouraged**. Even if you see something 
-that looks cool/funky but it isn't something you like (perhaps you're an IPA person but see a carrot cake stout), please bring it anyways since all the beer is going into the same
-pool to choose from. Your fellow guests will also likely praise you for your discovery! Please no beer hogging either - beer, especially brews with unique tastes, is ment to be enjoyed
+A suggested beer:guest ratio is 1 beer per guest per hour you intend to be here. If your party is 3 people and you plan to be here for 4 hours, we'd like it if you brought two sixes. Of course, we will definitely appreciate it if you brought more (can never have too much beer). 
+**Unique/off the beaten path beers are highly encouraged**. Even if you see something that looks cool/funky but it isn't something you like (perhaps you're an IPA person but see a carrot cake stout), please bring it anyways since all the beer is going into the same
+pool to choose from. Your fellow guests will also likely praise you for your discovery! Please no beer hogging either - beer, especially brews with unique tastes, is meant to be enjoyed
 as a group, so please share all the awesome stuff you bring with others, and sample the brews that other people bring!
 
  The following are good places to find good beer, and most of them do mix-a-six (which are also highly encouraged):
@@ -28,7 +28,7 @@ as a group, so please share all the awesome stuff you bring with others, and sam
 
 * [Nikki's Liquors, Providence](http://www.nikkisliquors.com)
 
-* [Wines and Moore, Cranston](http://winesandmoreri.com/)
+* [Wines and More, Cranston](http://winesandmoreri.com/)
 
 * [Wakefield Liquors, Wakefield](http://www.wakefieldliquors.com/)
 
@@ -45,7 +45,7 @@ Coke on hand for mixing.
 
 **SMOKING OF ANY VARIETY IS STRICTLY FORBIDDEN** (both inside and outside)
 
-If you have any fun outdoor games (corn hole, can-jam, ect), feel free to bring them along as well (or contact Max beforehand)
+If you have any fun outdoor games (corn hole, can-jam, etc), feel free to bring them along as well (or contact Max beforehand)
 
 If people are feeling extra ambitious, you are more than welcome to bring food along with your beer. A small variety of snacks will be available. In addition, Max's house is ~5min
 away from a "low quality but when you're drunk do you even care" pizza place and it is likely we will be placing multiple orders throughout the afternoon and evening.
