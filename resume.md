@@ -59,7 +59,7 @@ analysis, and visualization via ggplot.
 
 * Advanced usage of Microsoft Excel for things such as pivot tables, solver, and macros
 
-* Knowledge of git and project management through github
+* Knowledge of git and project management and version control through github
 
 * Basic knowledge of STATA, Python, Markdown, MySQL, Bash, Access, MatLab, HTML, QGIS
 
