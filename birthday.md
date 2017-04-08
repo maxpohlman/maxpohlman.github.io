@@ -9,9 +9,32 @@ title: Max and Anna's Birthday
 
 ### Where: Max's House at [34 Conch Road, Narragansett](https://www.google.com/maps/dir/''/34+Conch+Rd,+Narragansett,+RI+02882/data=!4m5!4m4!1m0!1m2!1m1!1s0x89e5be5eba6be5fd:0x3931cda692c57dc2?sa=X&ved=0ahUKEwiGgNuKlZPTAhUG_mMKHWkFD20QwwUIIDAA)
 
-#### We are designing this event as a celebration of beer. We will be providing samples from some of the 'greatest hits' we've had over the past year, along with some beer that we've brewed ourselves. We also encourage you to take part in the festivities by bringing some of your favorite beers to share with the rest of the party. There will also be lawn games, music, and overall good times. 
+#### We are designing this event as a celebration of beer. We will be providing samples from some of the 'greatest hits' we've had over the past year, along with some beer that we've brewed ourselves. We also encourage you to take part in the festivities by bringing some of your favorite beers to share with the rest of the party. There will also be lawn games, music, and overall good times. **Expect to get drunk** 
 
 
+What to bring: 
+----------------
+Please bring a **designated driver** with your carpool. If you're reading this you've likely been to my house and know that it is not large. Unless you talk with me
+beforehand, sleeping over is not allowed. It is the responsibility of your DD to get you back home.
+
+A suggested beer:guest ratio is 3:1 meaning a six pack for each pair of people in your car. **Unique/off the beaten path beers are highly encouraged**. Even if you see something 
+that looks cool/funky but it isn't something you like (perhaps you're an IPA person but see a carrot cake stout), please bring it anyways since all the beer is going into the same
+pool to choose from. Your fellow guests will also likely praise you for your discovery! The following are good places to find good beer, and most of them do mix-a-six (which are also highly encouraged):
+
+* [Bottles, Providence](http://bottlesfinewine.com/)
+
+* [Nikki's Liquors, Providence](http://www.nikkisliquors.com)
+
+* [Wines and Moore, Cranston](http://winesandmoreri.com/)
+
+* [Wakefield Liquors, Wakefield](http://www.wakefieldliquors.com/)
+
+* [Coastal Wines and Spirits, Branford](https://www.coastalwine.net/)
+
+* [Craft Beer Cellar, Various MA Locations](https://craftbeercellar.com/)
+
+**DO NOT BRING BUDWEISER, GANSETT, MILLER, ANYTHING 'LIGHT', OR ANYTHING ELSE THAT'S SHIT QUALITY. I WILL LITERALLY POUR IT OUT ONTO THE LAWN IN FRONT OF YOU AND SEND YOU TO WAKEFIELD
+LIQUORS TO FIX YOUR MISTAKES**
 
 
 
