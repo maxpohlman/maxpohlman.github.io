@@ -17,7 +17,7 @@ What to bring:
 Please bring a **designated driver** with your carpool. If you're reading this you've likely been to Max's house and know that it is not large. Unless you talk with Max
 beforehand, sleeping over is not allowed. It is the responsibility of your DD to get you back home.
 
-A suggested beer:guest ratio is 1 beer per guest per hour you intend to be here. If your party is 3 people and you plan to be here for 4 hours, we'd like it if you brought two sixes. Of course, we will definitely appreciate it if you brought more (can never have too much beer). 
+**A suggested beer:guest ratio is 1 beer per guest per hour you intend to be here.** If your party is 3 people and you plan to be here for 4 hours, we'd like it if you brought two sixes. Of course, we will definitely appreciate it if you brought more (can never have too much beer). 
 **Unique/off the beaten path beers are highly encouraged**. Even if you see something that looks cool/funky but it isn't something you like (perhaps you're an IPA person but see a carrot cake stout), please bring it anyways since all the beer is going into the same
 pool to choose from. Your fellow guests will also likely praise you for your discovery! Please no beer hogging either - beer, especially brews with unique tastes, is meant to be enjoyed
 as a group, so please share all the awesome stuff you bring with others, and sample the brews that other people bring!
