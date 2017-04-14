@@ -41,7 +41,7 @@ as a group, so please share all the awesome stuff you bring with others, and sam
 
 * [Craft Beer Cellar, Various MA Locations](https://craftbeercellar.com/)
 
-**DO NOT BRING BUDWEISER, GANSETT, MILLER, ANYTHING 'LIGHT', OR ANYTHING ELSE THAT'S SHIT QUALITY. MAX WILL LITERALLY POUR IT OUT ONTO THE LAWN IN FRONT OF YOU AND SEND YOU TO WAKEFIELD
+**DO NOT BRING BUDWEISER, GANSETT, PBR, YUENGLING, MILLER, ANYTHING 'LIGHT', OR ANYTHING ELSE THAT'S SHIT QUALITY. MAX WILL LITERALLY POUR IT OUT ONTO THE LAWN IN FRONT OF YOU AND SEND YOU TO WAKEFIELD
 LIQUORS TO FIX YOUR MISTAKES. CHUG IT IN THE CAR IF YOU WANT BUT KEEP IT OFF THE PREMISES**
 
 If you are not a fan of beer, we will have on hand a couple of funky spirits, but the selection will be much more limited. We highly recommend talking with Max or Azure for beer recommendations
