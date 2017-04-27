@@ -18,7 +18,7 @@ I am a very data-driven person and I hope to continue to use and develop a very 
 
 * Cost efficient ways to mitigate environmental hazard damage 
 
-* Economic impacts of implimentation of green energy infrastructure, particularly offshore wind.
+* Economic impacts of implementation of green energy infrastructure, particularly offshore wind.
 
 ----
 
