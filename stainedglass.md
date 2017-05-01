@@ -9,6 +9,8 @@ title: Stained Glass
 
 ![1](https://github.com/maxpohlman/maxpohlman.github.io/blob/master/img/stainedglass/beach.JPG?raw=true)
 
+![1](https://github.com/maxpohlman/maxpohlman.github.io/blob/master/img/stainedglass/barn.jpg?raw=true)
+
 ![1](https://github.com/maxpohlman/maxpohlman.github.io/blob/master/img/stainedglass/waterlily.JPG?raw=true)
 
 ![1](https://github.com/maxpohlman/maxpohlman.github.io/blob/master/img/stainedglass/tmnt.JPG?raw=true)
