@@ -18,7 +18,7 @@ Education
 
 **MS, Environmental and Natural Resource Economics**; University of Rhode Island (2015-2017 expected)
 
-*Working Thesis title: Effects of Uncertainty and Ambiguity in a Bargaining Setting*
+*Working Thesis title: Effects of Uncertainty and Ambiguity in Coasian Bargaining*
 
 **BS, Economics**; Pennsylvania State University (University Park) (2011-2015)
 
@@ -55,7 +55,7 @@ Other Skills
 --------------------
 
 * 5 years experience coding in R. Well versed in data cleaning, manipulation,
-analysis, and visualization via ggplot.
+analysis, and visualization via ggplot, R-Markdown, and R-Shiny.
 
 * Advanced usage of Microsoft Excel for things such as pivot tables, solver, and macros
 
@@ -68,7 +68,7 @@ analysis, and visualization via ggplot.
 ----
 
 ><p align="center">
-       <a href="mailto:maxpohlman@gmail.com">maxpohlman@gmail.com</a>  • 23 years old <br>
+       <a href="mailto:maxpohlman@gmail.com">maxpohlman@gmail.com</a>  • 24 years old <br>
 		2 Saint Paul Street #301 Brookline, MA 02446 <br>
 		Download my resume as a <a href="https://github.com/maxpohlman/maxpohlman.github.io/raw/master/MaxPohlman_Resume.pdf" download="MaxPohlman_Resume">pdf</a> or as a <a href="https://github.com/maxpohlman/maxpohlman.github.io/raw/master/MaxPohlman_Resume.docx" download="MaxPohlman_Resume">docx</a>.</p>
 
