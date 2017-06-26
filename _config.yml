@@ -23,6 +23,7 @@ description: Information about Max Pohlman
 
 # List of links in the navigation bar
 navbar-links:
+  GIS/Map Project: "https://maxpohlman.shinyapps.io/mapproj/"
   My Data: "http://45.55.63.152:3838/mydata/"
   Resume: "resume"
   Stained Glass Work: "stainedglass"
