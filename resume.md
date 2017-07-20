@@ -39,12 +39,6 @@ and ambiguity on bargaining behavior. Funded under a NSF EPSCoR grant on [The Fu
 Built an economic impacts tool that predicted changes in community employment
 and compensation based on community policy and specifications of company planned wind farms.
 
-**Environmental Policy Intern**
-*Save the Harbor/Save the Bay  (May-Aug 2015)*
-
-Conducted research independently to create press releases and reports for policy makers about the water
-quality of Boston Harbor and the Boston beaches.
-
 **Research Assistant**
 *Penn State University  (Sep 2013 - May 2015)*
 
@@ -54,14 +48,23 @@ of Marcellus Shale fracking.
 Other Skills
 --------------------
 
-* 5 years experience coding in R. Well versed in data cleaning, manipulation,
-analysis, and visualization via ggplot, R-Markdown, and R-Shiny.
+* 5 years experience coding in R, specifically:
 
-* Advanced usage of Microsoft Excel for things such as pivot tables, solver, and macros
+	* Cleaning, organizing, transforming data (pkg 'dplyr')
+	
+	* Supervised and unsupervised learning via classification, regression, clustering, PCA,
+	text analytics (pkgs 'caret', 'e1071', 'quanteda')
+	
+	* Econometric analysis via difference-in-difference, instrumental variables, regression discontinuity
+	
+	* Geospatial analysis of vectors, rasters. Construction of interactive maps 
+	(pkgs 'sf', 'sp', 'rgdal', 'rgeos', 'leaflet')
+	
+	*Visualization and document construction through ggplot, R-Shiny, R-Markdown
 
 * Knowledge of git and project management and version control through github
 
-* Basic knowledge of STATA, Python, Markdown, MySQL, Bash, Access, MatLab, HTML, QGIS
+* Experience in Python, STATA, Markdown, MySQL, Bash, Access, MatLab, HTML, QGIS
 
 * Construction of [stained glass artwork](http://www.maxpohlman.com/stainedglass) 
 
