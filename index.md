@@ -12,13 +12,13 @@ I am a very data-driven person and I hope to continue to use and develop a very 
 
 * Economic impacts of climate change on coastal communities
 
-* Market based solutions to sub-optimal climate-change response behavior
-
 * Applying economic theory to solve environmental issues
 
-* Cost efficient ways to mitigate environmental hazard damage 
+* Econonomically efficient ways of improving healthcare 
 
-* Economic impacts of implementation of green energy infrastructure, particularly offshore wind.
+* Using interactive visualizations to easily convey and present advanced data analysis 
+
+* Construction of supervised learning modules to predict outcomes of economic, environmental, or healthcare trials and policies
 
 ----
 
