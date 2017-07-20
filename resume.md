@@ -60,7 +60,7 @@ Other Skills
 	* Geospatial analysis of vectors, rasters. Construction of interactive maps 
 	(pkgs 'sf', 'sp', 'rgdal', 'rgeos', 'leaflet')
 	
-	*Visualization and document construction through ggplot, R-Shiny, R-Markdown
+	* Visualization and document construction through ggplot, R-Shiny, R-Markdown
 
 * Knowledge of git and project management and version control through github
 
