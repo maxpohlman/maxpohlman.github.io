@@ -18,3 +18,7 @@ title: Stained Glass
 ![1](https://github.com/maxpohlman/maxpohlman.github.io/blob/master/img/stainedglass/wolf.JPG?raw=true)
 
 ![1](https://github.com/maxpohlman/maxpohlman.github.io/blob/master/img/stainedglass/tulip.jpeg?raw=true)
+
+![1](https://github.com/maxpohlman/maxpohlman.github.io/blob/master/img/stainedglass/bee.JPG?raw=true)
+
+![1](https://github.com/maxpohlman/maxpohlman.github.io/blob/master/img/stainedglass/horse.JPG?raw=true)
