@@ -13,7 +13,7 @@ bigimg: https://github.com/maxpohlman/maxpohlman.github.io/blob/master/img/stain
 
 * Applying economic theory to solve environmental issues
 
-* Econonomically efficient ways of improving healthcare
+* Economically efficient ways of improving healthcare
 
 * Using interactive visualizations to easily convey and present advanced data analysis
 
