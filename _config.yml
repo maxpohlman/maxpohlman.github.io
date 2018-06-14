@@ -23,7 +23,8 @@ description: Information about Max Pohlman
 
 # List of links in the navigation bar
 navbar-links:
-  Intro to Leaflet: "intro-to-leaflet"
+  Intro to R-Mapping: "intro-to-rgis"
+  Intro to R-Leaflet: "intro-to-leaflet"
   GIS/Map Project: "https://maxpohlman.shinyapps.io/mapproj/"
   My Data: "http://45.55.63.152:3838/mydata/"
   Resume: "resume"
