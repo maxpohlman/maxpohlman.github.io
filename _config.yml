@@ -23,8 +23,8 @@ description: Information about Max Pohlman
 
 # List of links in the navigation bar
 navbar-links:
-  Intro to R-Mapping: "intro-to-rgis"
-  Intro to R-Leaflet: "intro-to-leaflet"
+  R-Mapping Intro: "intro-to-rgis"
+  R-Leaflet Intro: "intro-to-leaflet"
   GIS/Map Project: "https://maxpohlman.shinyapps.io/mapproj/"
   Resume: "resume"
   Stained Glass Work: "stainedglass"
