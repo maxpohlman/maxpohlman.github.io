@@ -26,9 +26,10 @@ navbar-links:
   Intro to R-Mapping: "intro-to-rgis"
   Intro to R-Leaflet: "intro-to-leaflet"
   GIS/Map Project: "https://maxpohlman.shinyapps.io/mapproj/"
-  My Data: "http://45.55.63.152:3838/mydata/"
   Resume: "resume"
   Stained Glass Work: "stainedglass"
+  
+  #My Data: "http://45.55.63.152:3838/mydata/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
