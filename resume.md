@@ -27,14 +27,17 @@ Education
 Experience
 ----------
 
-**Data Scientist**
-*Mathematica Policy Research (Oct 2017 - Present)*
+**Data Scientist & Lead R-Shiny Developer**
+*Mathematica Policy Research (Oct 2017 - Aug 2019)*
 
-Constructed and maintained a diverse suite of data processing pipelines and
-interactive visualizations.
+Led development of numerous R-Shiny applications including layout design & CSS, modularization, 
+application algorithm & logic development, web-browser communication, server deployment, package development.
+
+Constructed and maintained a diverse suite of data processing pipelines and interactive visualizations using
+R, Python, Leaflet, JS, Selenium, and more. 
 
 **Research Assistant**
-*University of Rhode Island (Jan. 2016 - Aug. 2017)*
+*University of Rhode Island (Jan 2016 - Aug 2017)*
 
 Conducted economic experiments and performed analysis of the effects of uncertainty
 and ambiguity on bargaining behavior. Funded under a NSF EPSCoR grant on [The Future of Dams](https://nsf.gov/awardsearch/showAward?AWD_ID=1539071)
@@ -77,6 +80,6 @@ Other Skills
 ----
 
 ><p align="center">
-       <a href="mailto:maxpohlman@gmail.com">maxpohlman@gmail.com</a>  • 25 years old <br>
+       <a href="mailto:maxpohlman@gmail.com">maxpohlman@gmail.com</a>  • 26 years old <br>
 		2 Saint Paul Street #301 Brookline, MA 02446 <br>
 		Download my resume as a <a href="https://github.com/maxpohlman/maxpohlman.github.io/raw/master/MaxPohlman_Resume.pdf" download="MaxPohlman_Resume">pdf</a> or as a <a href="https://github.com/maxpohlman/maxpohlman.github.io/raw/master/MaxPohlman_Resume.docx" download="MaxPohlman_Resume">docx</a>.</p>

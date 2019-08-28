@@ -6,14 +6,14 @@ bigimg: https://github.com/maxpohlman/maxpohlman.github.io/blob/master/img/stain
 
 ---
 
-**I am currently a data scientist at [Mathematica Policy Research](https://www.mathematica-mpr.com/).
- My primary research interests are:**
-
+**I am currently pursuing a PhD in Energy, Environmental, and Food Economics at Penn State.
+ My primary research interests are:** 
+ 
 * Economic impacts of climate change on coastal communities
 
 * Applying economic theory to solve environmental issues
 
-* Economically efficient ways of improving healthcare
+* Land use change and valuation
 
 * Using interactive visualizations to easily convey and present advanced data analysis
 
