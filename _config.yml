@@ -25,7 +25,7 @@ description: Information about Max Pohlman
 navbar-links:
   R-Mapping Intro: "intro-to-rgis"
   R-Leaflet Intro: "intro-to-leaflet"
-  Bird Migration: "http://apps.maxpohlman.com/shiny/bird-migration"
+  #Bird Migration: "http://apps.maxpohlman.com/shiny/bird-migration"
   Resume: "resume"
   Stained Glass Work: "stainedglass"
   
