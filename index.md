@@ -7,7 +7,7 @@ bigimg: https://github.com/maxpohlman/maxpohlman.github.io/blob/master/img/stain
 ---
 
 **I am currently pursuing a PhD in Energy, Environmental, and Food Economics at Penn State.
- My research at Penn State Includes:** 
+ My research at Penn State includes:** 
  
 * Empirical effects of forested riparian buffers on water quality
 
