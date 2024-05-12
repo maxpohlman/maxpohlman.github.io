@@ -1,0 +1,2 @@
+ <br>
+		Download my resume as a <a href="https://github.com/maxpohlman/maxpohlman.github.io/raw/master/MaxPohlman_Resume.pdf" download="MaxPohlman_Resume">pdf</a> or as a <a href="https://github.com/maxpohlman/maxpohlman.github.io/raw/master/MaxPohlman_Resume.docx" download="MaxPohlman_Resume">docx</a>.
