@@ -7,18 +7,19 @@ bigimg: https://github.com/maxpohlman/maxpohlman.github.io/blob/master/img/stain
 ---
 
 **I am currently pursuing a PhD in Energy, Environmental, and Food Economics at Penn State.
- My primary research interests are:** 
+ My research at Penn State Includes:** 
  
-* Economic impacts of climate change on coastal communities
+* Empirical effects of forested riparian buffers on water quality
 
-* Applying economic theory to solve environmental issues
+* Nonmarket valuation of cleaner water and benefit distribution through an environmental justice lens
 
-* Land use change and valuation
+* Recreational demand for cleaner water
 
-* Using interactive visualizations to easily convey and present advanced data analysis
+* Economic experimentation to get willingness-to-pay for public boat washing stations
 
-* Geospatial visualizations and analysis
+* Modeling how boaters travel to identify common routes invasive species are spread (and which non-invaded waterbodies are most vulnerable)
 
-* Construction of supervised learning modules to predict outcomes of economic, environmental, or healthcare trials and policies
+
+I have a passion for presenting research through novel media such as R-Shiny apps and interactive markdown. My goal is to present meaningful economic findings in a clear, consise, and even fun way for stakeholders, communities, policy makers, and laypersons.
 
 ----
