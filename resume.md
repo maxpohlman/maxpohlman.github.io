@@ -84,7 +84,7 @@ Other Skills
 
 	* Cleaning, organizing, transforming data (pkgs ‘tidyverse’)
 
-	* Econometric analysis via, causal inference, difference-in-difference, recreation demand, nonmarket valuation, benefit cost analysis, economic experimentation, regression discontinuity
+	* Econometric analysis via causal inference, difference-in-difference, recreation demand, nonmarket valuation, benefit cost analysis, economic experimentation, regression discontinuity
 
 	* Geospatial analysis of vectors, rasters. Construction of interactive maps
 	(pkgs 'sf', 'sp', 'rgdal', 'rgeos', 'leaflet')
