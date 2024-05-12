@@ -45,28 +45,28 @@ Experience
 **Data Scientist & Lead R-Shiny Developer**
 *Mathematica Policy Research (Oct 2017 - Aug 2019)*
 
-Led development of numerous R-Shiny applications including layout design & CSS, modularization, 
+* Led development of numerous R-Shiny applications including layout design & CSS, modularization, 
 application algorithm & logic development, web-browser communication, server deployment, package development.
 
-Constructed and maintained a diverse suite of data processing pipelines and interactive visualizations using
+* Constructed and maintained a diverse suite of data processing pipelines and interactive visualizations using
 R, Python, Leaflet, JS, Selenium, and more. 
 
 **Research Assistant**
 *University of Rhode Island (Jan 2016 - Aug 2017)*
 
-Conducted economic experiments and performed analysis of the effects of uncertainty
+* Conducted economic experiments and performed analysis of the effects of uncertainty
 and ambiguity on bargaining behavior. Funded under a NSF EPSCoR grant on [The Future of Dams](https://nsf.gov/awardsearch/showAward?AWD_ID=1539071)
 
 **Sustainability Intern**
 *Enel Green Power (Jun-Aug 2016)*
 
-Built an economic impacts tool that predicted changes in community employment
+* Built an economic impacts tool that predicted changes in community employment
 and compensation based on community policy and specifications of company planned wind farms.
 
 **Research Assistant**
 *Penn State University  (Sep 2013 - May 2015)*
 
-Performed multivariate analysis regarding economic factors and implications of the increase
+* Performed multivariate analysis regarding economic factors and implications of the increase
 of Marcellus Shale fracking.
 
 Invited Presentations
