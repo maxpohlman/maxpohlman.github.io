@@ -39,7 +39,7 @@ Experience
 * Estimated recreational demand for cleaner waters 
 * Developed an interactive R-Shiny application to show common multi-waterbody trips for boaters, highlighting risk for the spread of invasive species
 * Developed an interactive R-Shiny application for forest land-owners to find carbon credit programs that they qualify for
-* Conducted an economic experiment evaluating boater's willingness-to-pay for public boat washing stations, and boater's preference between monetary incentives or environmental improvement incentives
+* Conducted an economic experiment evaluating boater's willingness-to-pay for public boat washing stations, and boater's preference between monetary incentives and environmental improvement incentives
 * Conducted intercept surveys evaluating boater preferences for public boat washing stations
 
 **Data Scientist & Lead R-Shiny Developer**
