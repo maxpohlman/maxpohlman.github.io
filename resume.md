@@ -30,6 +30,14 @@ Education
 Experience
 ----------
 
+**Program Evaluation Specialist**
+*Censeo Consulting Group (2024-Present)*
+
+* Led the evaluation of various EPA programs with a focus on economic and environmental impacts.
+* Constructed a GIS data processing pipeline using ArcGIS, ArcPy, and GeoPandas to estimate the benefits of brownfield redevelopment.
+* Developed and executed a geospatial analysis of water quality monitoring in disadvantaged communities. Identified barriers inhibiting disadvantaged communities from applying for water remediation funds.
+
+
 **Research Assistant**
 *Penn State University (2019-2024)*
 
