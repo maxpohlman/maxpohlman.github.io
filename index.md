@@ -6,9 +6,18 @@ bigimg: https://github.com/maxpohlman/maxpohlman.github.io/blob/master/img/stain
 
 ---
 
-**I am currently pursuing a PhD in Energy, Environmental, and Food Economics at Penn State.
- My research at Penn State includes:** 
+**I am currently a Program Evaluation Specialist at Censeo Consulting.
+ My current research includes:** 
  
+* Environmental and economic impacts of brownfield redevelopment
+
+* Improving equity in water monitoring and access to federal remediation dollars 
+
+* Increasing adoption of agricultural non-point source pollution management practices
+
+
+** At Penn State, my research focused on: **
+
 * Empirical effects of forested riparian buffers on water quality
 
 * Nonmarket valuation of cleaner water and benefit distribution through an environmental justice lens
