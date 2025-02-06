@@ -16,7 +16,7 @@ bigimg: https://github.com/maxpohlman/maxpohlman.github.io/blob/master/img/stain
 * Increasing adoption of agricultural non-point source pollution management practices
 
 
-** At Penn State, my research focused on: **
+**At Penn State, my research focused on:**
 
 * Empirical effects of forested riparian buffers on water quality
 
