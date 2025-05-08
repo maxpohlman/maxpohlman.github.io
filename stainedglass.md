@@ -7,22 +7,22 @@ title: Stained Glass
 </p>
 
 
-![1](https://github.com/maxpohlman/maxpohlman.github.io/blob/master/img/stainedglass/beach.JPG?raw=true)
+![](https://github.com/maxpohlman/maxpohlman.github.io/blob/master/img/stainedglass/beach.JPG?raw=true)
 
-![1](https://github.com/maxpohlman/maxpohlman.github.io/blob/master/img/stainedglass/barn.jpg?raw=true)
+![](https://github.com/maxpohlman/maxpohlman.github.io/blob/master/img/stainedglass/barn.jpg?raw=true)
 
-![1](https://github.com/maxpohlman/maxpohlman.github.io/blob/master/img/stainedglass/waterlily.JPG?raw=true)
+![](https://github.com/maxpohlman/maxpohlman.github.io/blob/master/img/stainedglass/waterlily.JPG?raw=true)
 
-![1](https://github.com/maxpohlman/maxpohlman.github.io/blob/master/img/stainedglass/tmnt.JPG?raw=true)
+![](https://github.com/maxpohlman/maxpohlman.github.io/blob/master/img/stainedglass/tmnt.JPG?raw=true)
 
-![1](https://github.com/maxpohlman/maxpohlman.github.io/blob/master/img/stainedglass/wolf.JPG?raw=true)
+![](https://github.com/maxpohlman/maxpohlman.github.io/blob/master/img/stainedglass/wolf.JPG?raw=true)
 
-![1](https://github.com/maxpohlman/maxpohlman.github.io/blob/master/img/stainedglass/tulip.jpeg?raw=true)
+![](https://github.com/maxpohlman/maxpohlman.github.io/blob/master/img/stainedglass/tulip.jpeg?raw=true)
 
-![1](https://github.com/maxpohlman/maxpohlman.github.io/blob/master/img/stainedglass/bee.jpg?raw=true)
+![](https://github.com/maxpohlman/maxpohlman.github.io/blob/master/img/stainedglass/bee.jpg?raw=true)
 
-![1](https://github.com/maxpohlman/maxpohlman.github.io/blob/master/img/stainedglass/horse.JPG?raw=true)
+![](https://github.com/maxpohlman/maxpohlman.github.io/blob/master/img/stainedglass/horse.JPG?raw=true)
 
-![1](https://github.com/maxpohlman/maxpohlman.github.io/blob/master/img/stainedglass/lab.JPG?raw=true)
+![](https://github.com/maxpohlman/maxpohlman.github.io/blob/master/img/stainedglass/lab.JPG?raw=true)
 
-![1](https://github.com/maxpohlman/maxpohlman.github.io/blob/master/img/stainedglass/husky.JPG?raw=true)
+![](husky.JPG)
