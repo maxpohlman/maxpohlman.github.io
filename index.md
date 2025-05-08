@@ -2,7 +2,7 @@
 layout: page
 title: Max Pohlman
 subtitle: Environmental Economist, Data Lover, Stained Glass Artist
-bigimg: https://raw.githubusercontent.com/maxpohlman/maxpohlman.github.io/refs/heads/master/img/stainedglass/waterlily.JPG
+bigimg: waterlily.JPG
 
 ---
 
