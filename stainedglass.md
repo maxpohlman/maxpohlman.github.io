@@ -7,22 +7,22 @@ title: Stained Glass
 </p>
 
 
-![](https://github.com/maxpohlman/maxpohlman.github.io/blob/master/img/stainedglass/beach.JPG?raw=true)
+![](beach.JPG)
 
-![](https://github.com/maxpohlman/maxpohlman.github.io/blob/master/img/stainedglass/barn.jpg?raw=true)
+![](barn.jpg)
 
-![](https://github.com/maxpohlman/maxpohlman.github.io/blob/master/img/stainedglass/waterlily.JPG?raw=true)
+![](waterlily.JPG)
 
-![](https://github.com/maxpohlman/maxpohlman.github.io/blob/master/img/stainedglass/tmnt.JPG?raw=true)
+![](tmnt.JPG)
 
-![](https://github.com/maxpohlman/maxpohlman.github.io/blob/master/img/stainedglass/wolf.JPG?raw=true)
+![](wolf.JPG)
 
-![](https://github.com/maxpohlman/maxpohlman.github.io/blob/master/img/stainedglass/tulip.jpeg?raw=true)
+![](tulip.jpeg)
 
-![](https://github.com/maxpohlman/maxpohlman.github.io/blob/master/img/stainedglass/bee.jpg?raw=true)
+![](bee.jpg)
 
-![](https://github.com/maxpohlman/maxpohlman.github.io/blob/master/img/stainedglass/horse.JPG?raw=true)
+![](horse.JPG)
 
-![](https://github.com/maxpohlman/maxpohlman.github.io/blob/master/img/stainedglass/lab.JPG?raw=true)
+![](lab.JPG)
 
 ![](husky.JPG)
