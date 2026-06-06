@@ -1,13 +1,17 @@
 ---
 layout: page
 title: Max Pohlman
-subtitle: Environmental Economist, Data Lover, Stained Glass Artist
+subtitle: Environmental Economist, Quantitative Researcher, Stained Glass Artist
 bigimg: waterlily.JPG
 
 ---
 
-**I am currently a Program Evaluation Specialist at Censeo Consulting.
- My current research includes:** 
+**I am currently an Associate Quantitative Researcher at O'Shaughnessy Asset Management.**
+
+My research helps individuals construct long/short portfolios and trading strategies designed for efficient tax-loss harvesting.
+
+**Prior, I was a Program Evaluation Specialist at Censeo Consulting.
+ My research there included:** 
  
 * Environmental and economic impacts of brownfield redevelopment
 
